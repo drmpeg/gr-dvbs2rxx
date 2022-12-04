@@ -1,29 +1,29 @@
 ******** NOTICE ********
 
-A complete DVB-S2 receiver is now available at:
-
-https://github.com/igorauad/gr-dvbs2rx
+This repository is copy of https://github.com/drmpeg/gr-dvbs2rx,
+but with the namespace changed to dvbs2rxx so that it can co-exist
+with https://github.com/igorauad/gr-dvbs2rx.
 
 # Copyright 2018,2019 Ahmet Inan, Ron Economos
 #
-# This file is part of gr-dvbs2rx
+# This file is part of gr-dvbs2rxx
 #
-# gr-dvbs2rx is free software; you can redistribute it and/or modify
+# gr-dvbs2rxx is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 3, or (at your option)
 # any later version.
 #
-# gr-dvbs2rx is distributed in the hope that it will be useful,
+# gr-dvbs2rxx is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with gr-dvbs2rx; see the file COPYING.  If not, write to
+# along with gr-dvbs2rxx; see the file COPYING.  If not, write to
 # the Free Software Foundation, Inc., 51 Franklin Street,
 # Boston, MA 02110-1301, USA.
 
-gr-dvbs2rx
+gr-dvbs2rxx
 ======
 
 Author: Ron Economos

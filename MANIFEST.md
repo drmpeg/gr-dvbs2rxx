@@ -1,4 +1,4 @@
-title: gr-dvbs2rx
+title: gr-dvbs2rxx
 brief: DVB-S2 and DVB-T2 BICM (Bit-Interleaved Codec Modulation) blocks.
 tags:
   - sdr, ldpc, bch
